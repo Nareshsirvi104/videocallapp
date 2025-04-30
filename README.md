@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Video Call
 
 Welcome to the React Video Call App, a real-time video calling application that allows users to connect with each other, providing the ability to initiate video calls and control their audio and video settings.
@@ -96,3 +97,7 @@ Thank you for using the React Video Call App!
 
 
 
+=======
+# videocallapp
+a real-time video calling application that allows users to connect with each other, providing the ability to initiate video calls and control their audio and video settings.
+>>>>>>> 473459c498a9983e4b0322385df2599c8678bfa3
