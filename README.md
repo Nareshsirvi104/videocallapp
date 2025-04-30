@@ -88,7 +88,7 @@ We welcome contributions from the community. If you'd like to contribute to the 
 
 ## Contact
 
-If you have any questions or suggestions, please feel free to contact us at [simranlotey01@gmail.com](mailto:simranlotey01@gmail.com).
+If you have any questions or suggestions, please feel free to contact us at [nareshsirvi842@gmail.com](mailto:nareshsirvi842@gmail.com).
 
 Thank you for using the React Video Call App!
 
