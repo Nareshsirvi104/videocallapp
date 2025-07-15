@@ -29,7 +29,7 @@ Welcome to the React Video Call App, a real-time video calling application that 
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/simranlotey/react-video-call.git
+[git clone https://github.com/Nareshsirvi104/videocallapp]
 ```
 
 2. Change into the project directory:
@@ -70,12 +70,6 @@ npm start
 1. Start a new video call by entering the ID of the person you want to call.
 2. Use the controls to mute/unmute your microphone and enable/disable your camera during the call.
 3. Enjoy real-time video communication with your friends and colleagues!
-
-## Deployment
-
-- **Frontend Hosting**: The frontend of this application is hosted on [Netlify](https://www.netlify.com/). You can access it at [Frontend url](https://yourvideoshare.netlify.app/).
-
-- **Backend Hosting**: The backend of this application is hosted on [Render.com](https://render.com/). You can access it at [Backend url](https://video-call-server-gm7i.onrender.com).
 
 ## Contributing
 
